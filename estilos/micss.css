@@ -1,0 +1,58 @@
+/* 
+    Created on : 09-nov-2015, 21:22:49
+    Author     : Carlos Perez Gonzalez <1DAM>
+*/
+
+html, body {
+    font-family: calibri;
+    margin: 0%;
+    background-color: #eee;
+    height:100%;
+}
+
+#contenedor {
+    min-height: 100%;
+    background-color: #eee;
+}    
+
+#cabecera{    
+    background-color: #eee;
+    margin-bottom: 0%;
+}
+#cabecera img {
+    width:100%;
+}
+
+#menu {
+    width: 10%;    
+    float:left;
+
+}
+
+#menu img {
+    width: 100%;
+    padding: 15%;
+}
+
+#menu ul{
+    list-style: none;
+    padding-left: 30%;    
+}
+
+#contenido {
+    width: 70%;
+    height: 100%;
+    margin-left: 5%;
+    float: left;
+    text-align: justify;
+    background-color: #eee;
+}
+
+#pie {    
+    position:fixed;
+    bottom:0px;
+    width: 100%;    
+    background-color:#dfdfd2;
+    color:black;    
+    text-align:center;
+}
