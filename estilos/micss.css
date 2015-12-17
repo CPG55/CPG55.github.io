@@ -4,7 +4,7 @@
 */
 
 html, body {
-    font-family: calibri;
+    font-family: Calibri;
     margin: 0%;
     background-color: #eee;
     height:100%;
@@ -24,7 +24,7 @@ html, body {
 }
 
 #menu {
-    width: 10%;    
+    width: 15%;    
     float:left;
 
 }
@@ -33,6 +33,16 @@ html, body {
     width: 100%;
     padding: 15%;
 }
+
+#rss {
+    margin-left: 30%;    
+}
+
+#rss img {
+    width: 20%;    
+    padding-left:30%;
+}
+
 
 #menu ul{
     list-style: none;

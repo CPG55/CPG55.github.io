@@ -7,7 +7,7 @@
    <languaje>es</languaje>
    <image>
      <url>http://www.w3schools.com/images/w3schools_green.jpg</url>
-     <title>W3Schools.com</title>
+     <title>Validado por W3Schools.com</title>
      <link>http://www.w3schools.com</link>
    </image>
    <item>
@@ -19,7 +19,7 @@
    <item>
      <title>Reserva en el Hotel</title>
      <link>http://cpg55.github.io/index3.html</link>
-     <description>Zona para consultar noticias online</description>
+     <description>Zona para realizar reservas de Hotel</description>
    </item>
    
  </channel>
